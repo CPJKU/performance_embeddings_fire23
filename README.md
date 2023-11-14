@@ -13,7 +13,7 @@ If you use this work please cite us:
 ```
 @inproceedings{10.1145/3625135.3625141,
 author = {Peter, Silvan David and Chowdhury, Shreyan and Cancino-Chac\'{o}n, Carlos Eduardo and Widmer, Gerhard},
-title = {Sounding Out Reconstruction Error-Based Evaluation of Generative Models of Expressive Performance},
+title = {Are we describing the same sound? An analysis of word embedding spaces of expressive piano performance},
 year = {2023}
 }
 ```
